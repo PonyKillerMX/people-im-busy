@@ -15,8 +15,8 @@ setuptools.setup(
     url="https://github.com/PonyKillerMX/people-im-busy",
     packages=setuptools.find_packages(),
     classifiers=[
-        "Programming Language: :: Python :: 3",
+        "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System:: OS Independent",
+        "Operating System :: OS Independent",
     ],
 )

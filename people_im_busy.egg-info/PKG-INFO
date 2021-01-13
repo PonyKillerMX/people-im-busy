@@ -10,7 +10,7 @@ Description: # people-im-busy
         My family always interrupts me when I'm busy, so I want to develop this app based on twilio that sends a message to certain people when I'm busy. Something like "I'll be meditating in main room from 9 to 9:15, please don't interrupt me"
         
 Platform: UNKNOWN
-Classifier: Programming Language: :: Python :: 3
+Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System:: OS Independent
+Classifier: Operating System :: OS Independent
 Description-Content-Type: text/markdown
